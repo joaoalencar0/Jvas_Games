@@ -1,0 +1,92 @@
+.cabeçalho{
+    background-image: linear-gradient(to left, gray, white, white, gray);
+    position: relative;
+    width: 110%;
+    top: -25px;
+    left: -5%;
+}
+.logo{
+    position: relative;
+    width: 10%;
+    left: 43%;
+}
+body{
+    background-image: url(papel-de-parede-adesivo-teen-game-fundo-preto-_-rolo-inteiro1-f213354f3ced058dc016485631583753-1024-1024.jpg);
+}
+.B{
+    font-size: 1.2rem;
+    padding: 1rem 2.5rem;
+    border: none;
+    border-radius: o.4rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: rgb(234, 234, 234);
+    color: rgb(0, 0,0 );
+    font-weight: 700;
+    transition: 0.6s;
+}
+.B:active{
+    scale: 0.92;
+}
+.B:hover{
+    background: rgb(0,0,0);
+    background: linear-gradient(270deg, rba(2, 29,78, 0.681) 0%, 
+    rba(31, 215, 232, 0.873) 60%);
+    color: rgb(234, 234,234);
+}
+.B2{
+    font-size: 1.2rem;
+    padding: 1rem 2.5rem;
+    border: none;
+    border-radius: o.4rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: rgb(234, 234, 234);
+    color: rgb(0, 0,0 );
+    font-weight: 700;
+    transition: 0.6s;
+}
+.B2:active{
+    scale: 0.92;
+}
+.B2:hover{
+    background: rgb(0,0,0);
+    background: linear-gradient(270deg, rba(2, 29,78, 0.681) 0%, 
+    rba(31, 215, 232, 0.873) 60%);
+    color: rgb(234, 234,234);
+}
+.D1{
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    left: 28%;
+    padding: 70px;
+    border-radius: 15px;
+    overflow: auto; 
+}
+.link{
+    position: relative;
+    left: 27%;
+    top: -20px;
+}
+.link2{
+    position: relative;
+    top: 55px;
+    right: 15%;
+}
+.bem{
+    position: relative;
+    top: -62px;
+}
+.texto1{
+    position: relative;
+    top: -70px;
+}
+.texto2{
+    position: relative;
+    top: -70px;
+}
+.texto3{
+    position: relative;
+    top: -70px; 
+}
